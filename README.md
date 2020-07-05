@@ -27,10 +27,10 @@ It's triggered when the user clicks on "save game"
 On the left side, at the "*Graph Overview*" pane you can see the all of the stages that the subroutine
 performs.  
 
-After reversing this code and doing some re-naming to the function names, I managed to get 
+I did some re-naming to the function names and managed to get 
 a clear view of what that thing is doing. And more importantly, to understand the saved game file format. 
 
-The function can be found at: [JazzSaveFile.asm](./JazzSaveFile.asm)
+The graph above can be found at: [JazzSaveFile.asm](./JazzSaveFile.asm)
 
 The output file can be found at: [SAVEGAME.000](./SAVEGAME.000)
 
