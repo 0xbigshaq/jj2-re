@@ -2,6 +2,12 @@
 
 ![cap](./res/jazz.png)
 
+*Jazz Jackrabbit 2* is a nostalgic platform game produced by [Epic Games](https://en.wikipedia.org/wiki/Epic_Games). 
+
+I decided to try and reverse engineer the game since it was one of my favorite games back in the days (:
+
+## The saved game format
+
 >*"The saved game format for Jazz Jackrabbit is exceedingly complex and the files themselves contain the string 'Figure diz out, greetz arjan' an open invitation from the game's programmer
 to try and crack it."*
    http://www.shikadi.net/moddingwiki/Jazz_Jackrabbit_Saved_Game_Format
